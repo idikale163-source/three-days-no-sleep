@@ -1,5 +1,5 @@
 // 缓存版本
-const CACHE_NAME = 'stm-v483';
+const CACHE_NAME = 'stm-v484-iconv2';
 
 // 需要缓存的静态文件
 const URLS_TO_CACHE = [
